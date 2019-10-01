@@ -32,7 +32,7 @@ Creacion de la maquina ec2
 
 Creacion y configuracion del gateway 
 
-![alt text](hhttps://github.com/diego2097/AwsGatewayLambda/blob/master/img/gateway.PNG "Gateway")
+![alt text](https://github.com/diego2097/AwsGatewayLambda/blob/master/img/gateway.PNG "Gateway")
 
 Se configuro el puerto 8080 para permitir el trafico de informacion.
 
